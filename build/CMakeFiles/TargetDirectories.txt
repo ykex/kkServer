@@ -1,0 +1,10 @@
+/home/yk/c_cpp/server/build/CMakeFiles/rebuild_cache.dir
+/home/yk/c_cpp/server/build/CMakeFiles/edit_cache.dir
+/home/yk/c_cpp/server/build/CMakeFiles/main.dir
+/home/yk/c_cpp/server/build/CMakeFiles/lserver.dir
+/home/yk/c_cpp/server/build/log/CMakeFiles/rebuild_cache.dir
+/home/yk/c_cpp/server/build/log/CMakeFiles/edit_cache.dir
+/home/yk/c_cpp/server/build/log/CMakeFiles/llog.dir
+/home/yk/c_cpp/server/build/thread/CMakeFiles/rebuild_cache.dir
+/home/yk/c_cpp/server/build/thread/CMakeFiles/edit_cache.dir
+/home/yk/c_cpp/server/build/thread/CMakeFiles/lthread.dir

@@ -1,0 +1,107 @@
+[
+{
+  "directory": "/home/yk/c_cpp/server/build",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build -I/home/yk/c_cpp/server  -g   -std=c++11 -o CMakeFiles/main.dir/main.cpp.o -c /home/yk/c_cpp/server/main.cpp",
+  "file": "/home/yk/c_cpp/server/main.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build -I/home/yk/c_cpp/server  -g   -std=c++11 -o CMakeFiles/lserver.dir/Buffer.cpp.o -c /home/yk/c_cpp/server/Buffer.cpp",
+  "file": "/home/yk/c_cpp/server/Buffer.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build -I/home/yk/c_cpp/server  -g   -std=c++11 -o CMakeFiles/lserver.dir/Channel.cpp.o -c /home/yk/c_cpp/server/Channel.cpp",
+  "file": "/home/yk/c_cpp/server/Channel.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build -I/home/yk/c_cpp/server  -g   -std=c++11 -o CMakeFiles/lserver.dir/Epoll.cpp.o -c /home/yk/c_cpp/server/Epoll.cpp",
+  "file": "/home/yk/c_cpp/server/Epoll.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build -I/home/yk/c_cpp/server  -g   -std=c++11 -o CMakeFiles/lserver.dir/EventLoop.cpp.o -c /home/yk/c_cpp/server/EventLoop.cpp",
+  "file": "/home/yk/c_cpp/server/EventLoop.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build -I/home/yk/c_cpp/server  -g   -std=c++11 -o CMakeFiles/lserver.dir/EventLoopThread.cpp.o -c /home/yk/c_cpp/server/EventLoopThread.cpp",
+  "file": "/home/yk/c_cpp/server/EventLoopThread.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build -I/home/yk/c_cpp/server  -g   -std=c++11 -o CMakeFiles/lserver.dir/EventLoopThreadPool.cpp.o -c /home/yk/c_cpp/server/EventLoopThreadPool.cpp",
+  "file": "/home/yk/c_cpp/server/EventLoopThreadPool.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build -I/home/yk/c_cpp/server  -g   -std=c++11 -o CMakeFiles/lserver.dir/Server.cpp.o -c /home/yk/c_cpp/server/Server.cpp",
+  "file": "/home/yk/c_cpp/server/Server.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build -I/home/yk/c_cpp/server  -g   -std=c++11 -o CMakeFiles/lserver.dir/TcpConnection.cpp.o -c /home/yk/c_cpp/server/TcpConnection.cpp",
+  "file": "/home/yk/c_cpp/server/TcpConnection.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build -I/home/yk/c_cpp/server  -g   -std=c++11 -o CMakeFiles/lserver.dir/Timer.cpp.o -c /home/yk/c_cpp/server/Timer.cpp",
+  "file": "/home/yk/c_cpp/server/Timer.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build -I/home/yk/c_cpp/server  -g   -std=c++11 -o CMakeFiles/lserver.dir/Util.cpp.o -c /home/yk/c_cpp/server/Util.cpp",
+  "file": "/home/yk/c_cpp/server/Util.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build -I/home/yk/c_cpp/server  -g   -std=c++11 -o CMakeFiles/lserver.dir/http/HttpContext.cpp.o -c /home/yk/c_cpp/server/http/HttpContext.cpp",
+  "file": "/home/yk/c_cpp/server/http/HttpContext.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build -I/home/yk/c_cpp/server  -g   -std=c++11 -o CMakeFiles/lserver.dir/http/HttpResponse.cpp.o -c /home/yk/c_cpp/server/http/HttpResponse.cpp",
+  "file": "/home/yk/c_cpp/server/http/HttpResponse.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build -I/home/yk/c_cpp/server  -g   -std=c++11 -o CMakeFiles/lserver.dir/http/HttpServer.cpp.o -c /home/yk/c_cpp/server/http/HttpServer.cpp",
+  "file": "/home/yk/c_cpp/server/http/HttpServer.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build/log",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build/log -I/home/yk/c_cpp/server/log  -g   -std=c++11 -o CMakeFiles/llog.dir/AsyncLogging.cpp.o -c /home/yk/c_cpp/server/log/AsyncLogging.cpp",
+  "file": "/home/yk/c_cpp/server/log/AsyncLogging.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build/log",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build/log -I/home/yk/c_cpp/server/log  -g   -std=c++11 -o CMakeFiles/llog.dir/FileUtil.cpp.o -c /home/yk/c_cpp/server/log/FileUtil.cpp",
+  "file": "/home/yk/c_cpp/server/log/FileUtil.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build/log",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build/log -I/home/yk/c_cpp/server/log  -g   -std=c++11 -o CMakeFiles/llog.dir/LogFile.cpp.o -c /home/yk/c_cpp/server/log/LogFile.cpp",
+  "file": "/home/yk/c_cpp/server/log/LogFile.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build/log",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build/log -I/home/yk/c_cpp/server/log  -g   -std=c++11 -o CMakeFiles/llog.dir/LogStream.cpp.o -c /home/yk/c_cpp/server/log/LogStream.cpp",
+  "file": "/home/yk/c_cpp/server/log/LogStream.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build/log",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build/log -I/home/yk/c_cpp/server/log  -g   -std=c++11 -o CMakeFiles/llog.dir/Logging.cpp.o -c /home/yk/c_cpp/server/log/Logging.cpp",
+  "file": "/home/yk/c_cpp/server/log/Logging.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build/thread",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build/thread -I/home/yk/c_cpp/server/thread  -g   -std=c++11 -o CMakeFiles/lthread.dir/CountDownLatch.cpp.o -c /home/yk/c_cpp/server/thread/CountDownLatch.cpp",
+  "file": "/home/yk/c_cpp/server/thread/CountDownLatch.cpp"
+},
+{
+  "directory": "/home/yk/c_cpp/server/build/thread",
+  "command": "/usr/bin/g++-5   -I/home/yk/c_cpp/server/build/thread -I/home/yk/c_cpp/server/thread  -g   -std=c++11 -o CMakeFiles/lthread.dir/Thread.cpp.o -c /home/yk/c_cpp/server/thread/Thread.cpp",
+  "file": "/home/yk/c_cpp/server/thread/Thread.cpp"
+}
+]

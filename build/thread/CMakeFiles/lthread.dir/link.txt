@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblthread.a  CMakeFiles/lthread.dir/CountDownLatch.cpp.o CMakeFiles/lthread.dir/Thread.cpp.o
+/usr/bin/ranlib liblthread.a
